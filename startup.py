@@ -1,4 +1,4 @@
-# Nik's Startup Script
+# ITHOWTOO Startup Script
 
 # Load modules:
 import os
